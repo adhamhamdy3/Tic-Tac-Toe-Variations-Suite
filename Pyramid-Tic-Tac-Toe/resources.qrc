@@ -1,0 +1,5 @@
+<RCC>
+    <qresource prefix="/">
+        <file>Pyramid Tic Tac Toe.ico</file>
+    </qresource>
+</RCC>
