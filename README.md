@@ -46,10 +46,6 @@ Welcome to the **Tic-Tac-Toe Variations Suite**, a collection of three innovativ
   * Uses a `dic.txt` file containing all valid 3-letter words.
 * **Play**: Check instructions and download from [Word Tic-Tac-Toe](./Word-Tic-Tac-Toe/README.md).
 
-## Releases
-
-Download compiled versions of each game from the [Releases page](https://github.com/your-username/your-repo-name/releases).
-
 ## Getting Started
 
 1. **Clone the repository**
